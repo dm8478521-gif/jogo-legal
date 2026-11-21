@@ -1,0 +1,6 @@
+{
+  "name": "Soca-Cara",
+  "description": "Jogo arcade onde você soca o rosto no centro para ganhar dinheiro, enfrentar níveis mais resistentes e comprar armas letais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
